@@ -1,7 +1,7 @@
 Native Matrix Multiplication Implementation
 ===========================================
 
-```
+```python
 # Given two matrix A and B, calculate matrix multiplication of A and B, i.e AB.
 #
 # Native implementation (by definition)
